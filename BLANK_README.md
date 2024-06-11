@@ -8,14 +8,10 @@
 <p align="center">
   A simple client for interacting with OpenAI's GPT models using a graphical interface built with Tkinter.
   <br />
-  <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
   <br />
-  <br />
-  <a href="https://github.com/github_username/repo_name">View Demo</a>
+  <a href="https://github.com/zakmasood/SimpleGPTClient/issues">Report Bug</a>
   ·
-  <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  <a href="https://github.com/zakmasood/SimpleGPTClient/issues">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -36,29 +32,23 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+A simple client for interacting with OpenAI's GPT models using a graphical interface built with Tkinter. This intuitive application allows users to seamlessly communicate with GPT-3 and GPT-4, leveraging the power of natural language processing in an easy-to-use environment. The graphical user interface (GUI) simplifies the process of sending queries and receiving responses, making advanced AI accessible even to those without extensive technical knowledge. Users can input their prompts, view real-time responses, and adjust settings directly from the interface, all while enjoying a streamlined and visually appealing user experience. Ideal for developers, researchers, and AI enthusiasts, this client bridges the gap between cutting-edge GPT capabilities and user-friendly design.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+"- 4o"
 
 ### Built With
 
 * [![Python][Python.com]][Python-url]
 * [![Tkinter][Tkinter-logo]][Tkinter-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -95,28 +85,15 @@ To get a local copy up and running follow these simple example steps.
    API_KEY = 'ENTER YOUR API KEY'
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more resources.
+Run the program with any IDE of your choice, or locally in CMD with
+```sh
+py client.py
+```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Enter text and enjoy!
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -132,45 +109,23 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/zakmasood/SimpleGPTClient.svg?style=for-the-badge
+[contributors-url]: https://github.com/zakmasood/SimpleGPTClient/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zakmasood/SimpleGPTClient.svg?style=for-the-badge
+[forks-url]: https://github.com/zakmasood/SimpleGPTClient/network/members
+[stars-shield]: https://img.shields.io/github/stars/zakmasood/SimpleGPTClient.svg?style=for-the-badge
+[stars-url]: https://github.com/zakmasood/SimpleGPTClient/stargazers
+[issues-shield]: https://img.shields.io/github/issues/zakmasood/SimpleGPTClient.svg?style=for-the-badge
+[issues-url]: https://github.com/zakmasood/SimpleGPTClient/issues
+[license-shield]: https://img.shields.io/github/license/zakmasood/SimpleGPTClient.svg?style=for-the-badge
+[license-url]: https://github.com/zakmasood/SimpleGPTClient/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
